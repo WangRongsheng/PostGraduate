@@ -20,16 +20,16 @@
 
 #### 政治
 
-#### 数学
+#### [数学](https://github.com/WangRongsheng/PostGraduate/tree/master/%E5%88%9D%E8%AF%95/%E5%85%AC%E5%85%B1%E8%AF%BE/%E6%95%B0%E5%AD%A6)
 
 ### 专业课
 
-#### 计算机组成原理
+#### [计算机组成原理](https://github.com/WangRongsheng/PostGraduate/tree/master/%E5%88%9D%E8%AF%95/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 
-#### 操作系统
+#### [操作系统](https://github.com/WangRongsheng/PostGraduate/tree/master/%E5%88%9D%E8%AF%95/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 
-#### 数据结构
+#### [数据结构](https://github.com/WangRongsheng/PostGraduate/tree/master/%E5%88%9D%E8%AF%95/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-#### 计算机网络
+#### [计算机网络](https://github.com/WangRongsheng/PostGraduate/tree/master/%E5%88%9D%E8%AF%95/%E4%B8%93%E4%B8%9A%E8%AF%BE/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 
 ## 复试

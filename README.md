@@ -1,6 +1,6 @@
 <center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593341284603&di=40295982ada432ac8c9e2e2c707bd2e2&imgtype=0&src=http%3A%2F%2Fwww.ahjzu.edu.cn%2F_upload%2Farticle%2Fimages%2Fbe%2F7c%2F7b50ef8b498595faeadfd3dcf033%2F5959f660-cdb3-440d-84d9-8bf51d02c750.jpg" /></center>
 
-:bow: 我`河南理工大学` ，将会报考`**大学`**专硕**-全日制研究生。
+:bow: 本科`河南理工大学`
 
 - 公共课（350分）
     - 英语100分
